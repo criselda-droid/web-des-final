@@ -1,0 +1,81 @@
+
+
+.img-thumbnail {
+    margin-right: 20px;
+    width: 500px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%; 
+}
+
+.box {
+    padding: 15px;        
+    margin-bottom: 20px;
+    
+}
+
+body{
+    padding-top: 70px;
+    background-image: url(/images/new-background.png);
+    color: black;
+    background-color: pink;
+}
+.nav-tabs i{
+    color: black;
+}
+.nav-tabs a{
+    color: black;
+}
+.nav-tabs a:hover{
+    color:white;
+}
+.card-text-center{
+    background-color: pink;
+}
+.container{
+    background-color: pink;
+}
+.m-5{
+    background-color:pink;
+}
+.text-center{
+    background-color: pink;
+
+}
+.img .card-text-center{
+    border-radius: 50%;
+}
+.rounded .box text-center {
+    width: 200px;
+}
+.rounded-circle {
+    width: 50%;
+    border: 5px solid white;
+}
+.fw-semibold{
+    border: 5px solid whitesmoke;
+}
+.d-block{
+    width: 90%;
+}
+.img-fluid{
+    width: 400px;
+    border: 5px solid white;
+}
+.figure-caption{
+    font-size: large;
+}
+
+.nav-fill a {
+ color: black;
+ background-color: pink !important;
+ font-size: 20px;
+
+}
+.nav-fill a:hover {
+    color: white;
+
+}
+
+.nav-fill{
+    border: 5px solid white;
+}
