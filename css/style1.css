@@ -39,13 +39,17 @@ body{
 }
 .text-center{
     background-color: pink;
-
+    width: 100%;
+}
+img, svg {
+    max-width: 100%;
+    
 }
 .img .card-text-center{
     border-radius: 50%;
 }
 .rounded .box text-center {
-    width: 200px;
+    width: 100%;
 }
 .rounded-circle {
     width: 50%;
