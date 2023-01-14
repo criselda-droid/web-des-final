@@ -1,24 +1,18 @@
 
-
-.img-thumbnail {
-    margin-right: 20px;
-    width: 500px;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%; 
-}
-
-.box {
-    padding: 15px;        
-    margin-bottom: 20px;
-    
-}
-
 body{
     padding-top: 70px;
     background-image: url(/images/new-background.png);
     color: black;
     background-color: pink;
 }
+/* --- Navigation --- */
+.box {
+    padding: 15px;        
+    margin-bottom: 20px;
+    
+}
+
+
 .nav-tabs i{
     color: black;
 }
@@ -40,6 +34,14 @@ body{
 .text-center{
     background-color: pink;
     width: 100%;
+}
+
+/* --- for gallery images --- */
+.img-thumbnail {
+    margin-right: 20px;
+    width: 500px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%; 
 }
 img, svg {
     max-width: 100%;
